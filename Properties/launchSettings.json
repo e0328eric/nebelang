@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "nebelung": {
-      "commandName": "Project",
-      "commandLineArgs": "abc def ghi",
-      "sqlDebugging": false
-    }
-  }
-}
