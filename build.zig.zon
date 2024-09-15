@@ -1,8 +1,8 @@
 .{
-    .name = "nblvm",
+    .name = "nebelang",
     .version = "0.0.0",
-    .dependencies = .{},
 
+    .dependencies = .{},
     .paths = .{
         "build.zig",
         "build.zig.zon",
